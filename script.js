@@ -46,7 +46,6 @@ radio3.addEventListener('click', function(evt){
   }
 })
 
-let formCheckbox = document.querySelector('.form-checkbox');
 let list = document.querySelector('.list');
 let createLi1 = document.createElement('li');
 let createLi2 = document.createElement('li');
